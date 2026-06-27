@@ -271,9 +271,6 @@ python main.py
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -284,6 +281,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by Tuhin-SnapD**
+**Made with ❤️ by Sudheshna Reddy**
 
 *Transform your news consumption with AI-powered insights and beautiful visualizations.*
